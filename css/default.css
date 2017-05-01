@@ -8,7 +8,9 @@ body{
 h1 span{
     font-size: 70%;
     color:#d0e35b;
-    padding:20px 0px;
+   padding:20px 0px;
+    padding-right:30px;
+   
     
 }
 
@@ -22,5 +24,5 @@ h1 span{
 }
 li{
     font-size: 0.8em;
-    
+     
 }
