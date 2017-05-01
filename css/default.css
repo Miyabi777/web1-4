@@ -13,11 +13,11 @@ h1 span{
 }
 
 #lead{
-    border-top:#6fbb9a 100px dotted;
+    border-top:#6fbb9a 2px dotted;
     text-align:center;
 }
 .greeting{
-    border-top:#6fbb9b 200px dotted;
+    border-top:#6fbb9b 3px dotted;
     text-align:center;
 }
 li{
