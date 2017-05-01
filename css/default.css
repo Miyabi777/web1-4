@@ -4,13 +4,13 @@ h1 span{
     color:#d0e35b;
 }
 #lead{
-    font-size: 70%;
+ 
     border-top:#6fbb9a 10px dotted;
     text-align:center;
 }
 .greeting{
-    font-size: 70%;
-    border-top:#6fbb9a 20px dotted;
+    
+    border-top:#6fbb9b 20px dotted;
     text-align:center;
 }
 li{
