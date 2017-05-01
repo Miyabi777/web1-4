@@ -12,7 +12,7 @@ h1 a{
 }
 #lead{
  
-    border-top:#6fbb9a 100% dotted;
+    border-top:#6fbb9a 100px dotted;
     text-align:center;
 }
 .greeting{
