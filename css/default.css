@@ -5,12 +5,12 @@ h1 span{
 }
 #lead{
     font-size: 70%;
-    border-top:#6fbb9a 2px dotted;
+    border-top:#6fbb9a 10px dotted;
     text-align:center;
 }
 .greeting{
     font-size: 70%;
-    border-top:#6fbb9a 3px dotted;
+    border-top:#6fbb9a 20px dotted;
     text-align:center;
 }
 li{
